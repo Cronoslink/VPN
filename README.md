@@ -101,19 +101,19 @@
             1 - <strong>Go to</strong> <a href="https://wmxpulse.wistron.com">https://wmxpulse.wistron.com</a> <br> and Click <strong>Download Pulse Secure Client</strong>
           </p>
           <div class="box1">
-            <img src="Down.png" alt="Download a client" />
+            <img src="img/Down.png" alt="Download a client" />
           </div>
           <p>
             2 - Select <strong>Windows 32 Bits(x86) or Windows 64 Bits(x64)</strong>
           </p>
           <div class="box2">
-          <img src="Ver.png" alt="Select a Version" />
+          <img src="img/Ver.png" alt="Select a Version" />
         </div>
           <p>
             3 - Wait for the clietn to <strong>download</strong> and <strong>click</strong> to open it.
           </p>
           <div class="box3">
-          <img src="Open.png" alt="Open the File" />
+          <img src="img/Open.png" alt="Open the File" />
         </div> 
         </div>
       </div>

@@ -23,11 +23,11 @@
       h1 {
         text-align: center;
         margin: 0;
-        padding: 0.6em 2em 0.4em;
+        padding: 0.1em 0.1em 0.1em;
         background-color: #10B981;
         color: #fff;
         font-weight: normal;
-        font-size: 1.75em;
+        font-size: 1.0em;
         border-bottom: 2px solid #000;
       }
       h1 strong {
@@ -37,7 +37,7 @@
       h2 {
         text-align: center;
         background-color: #10B981;
-        font-size: 1.1em;
+        font-size: 0.9em;
         font-weight: bold;
         color: #fff;
         margin: 0;
@@ -54,7 +54,7 @@
         display: none;
       }
       .content {
-        padding: 1em 5em;
+        padding: 0.3em 0.5em;
       }
       .alert {
         border: 2px solid #000;

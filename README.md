@@ -12,13 +12,13 @@
         padding: 0;
       }
       :link {
-        color: #c00;
+        color:  #10B981;
       }
       :visited {
-        color: #c00;
+        color:  #10B981;
       }
       a:hover {
-        color: #f50;
+        color:  #10B981;
       }
       h1 {
         text-align: center;
@@ -47,14 +47,14 @@
       h3 {
         text-align: center;
         background-color: #ff0000;
-        padding: 0.5em;
+        padding: 0.1em;
         color: #fff;
       }
       hr {
         display: none;
       }
       .content {
-        padding: 0.3em 0.5em;
+        padding: 0.1em 0.1em;
       }
       .alert {
         border: 2px solid #000;
@@ -66,10 +66,6 @@
       }
       a:hover img {
         border: 2px solid #294172;
-      }
-      .logos {
-        margin: 1em;
-        text-align: center;
       }
       .box1 {
         width: 50%;

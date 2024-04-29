@@ -69,17 +69,17 @@
       }
       .box1 {
         width: 50%;
-        height: 150px;
+        height: 300px;
         border: 5px solid #10B981;
       }
       .box2 {
         width: 50%;
-        height: 150px;
+        height: 300px;
         border: 5px solid #10B981;
       }
       .box3 {
         width: 50%;
-        height: 150px;
+        height: 300px;
         border: 5px solid #10B981;
       }
       /*]]>*/
@@ -91,7 +91,7 @@
 
     <div class="content">
       <div class="alert">
-        <h2>Get the VPN client and run it</h2>
+
         <div class="content">
           <p>
             1 - <strong>Go to</strong> <a href="https://wmxpulse.wistron.com">https://wmxpulse.wistron.com</a> <br> and Click <strong>Download Pulse Secure Client</strong>
